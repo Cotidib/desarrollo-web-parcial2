@@ -1,6 +1,7 @@
 ## Levantar API
 
 ```
+npm install
 npm run dev 
 ```
 
